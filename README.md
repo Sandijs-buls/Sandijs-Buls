@@ -3,7 +3,8 @@
 - 19 year old from Ireland
 - Currently in my 3rd year Computer Science Degree in TU Dublin
 - Into AI, automation, and coding my own projects
-- Looking for opportunities to improve my coding
+- Looking for opportunities to improve my skills
+- Feel free to reach out!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandijs-buls-717614278) 
