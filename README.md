@@ -19,11 +19,11 @@
 
 <div align="center" style="width: 100%; margin: 0 auto;">
   
-![](https://github-readme-stats.vercel.app/api?username=Sandijs-Buls&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Sandijs-Buls&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=43200)
 
 ![](https://streak-stats.demolab.com/?user=Sandijs-Buls&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandijs-Buls&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandijs-Buls&theme=dark&hide_border=true&layout=compact&cache_seconds=43200)
 
 </div>
 
@@ -31,7 +31,7 @@
   <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandijs-Buls&theme=dark" width="700">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandijs-Buls&theme=dark&cache_seconds=43200" width="700">
     </td>
   </tr>
 </table>
