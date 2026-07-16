@@ -32,7 +32,7 @@
   <tr>
     <td align="center">
       <!-- GitHub Stats (more reliable) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sandijs-Buls&show_icons=true&theme=dark" width="700">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandijs-Buls&theme=dark&cache_seconds=43200" width="700">
     </td>
   </tr>
 </table>
