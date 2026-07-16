@@ -31,7 +31,7 @@
   <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandijs-Buls&theme=dark&cache_seconds=43200" width="700">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandijs-Buls&theme=dark&cache_seconds=50000" width="700">
     </td>
   </tr>
 </table>
