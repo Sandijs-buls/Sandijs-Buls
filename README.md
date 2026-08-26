@@ -19,7 +19,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=FF6E6E&color=000000) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=64B5F6&color=000000)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=FFEE58&color=000000)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=4FC3F7&color=000000)
 
 # 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=4FC3F7&color=000000)
@@ -28,8 +27,11 @@
 # 🛠️ Developer Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=FF7043&color=000000)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=ECEFF4&color=000000)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%23121011.svg?style=for-the-badge&logo=githubactions&logoColor=4FC3F7&color=000000)
+![Docker](https://img.shields.io/badge/docker-%23121011.svg?style=for-the-badge&logo=docker&logoColor=4FC3F7&color=000000)
+![Heroku](https://img.shields.io/badge/Heroku-%23121011.svg?style=for-the-badge&logo=heroku&logoColor=430098&color=000000)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=FFFFFF&color=000000)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=4FC3F7&color=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23121011.svg?style=for-the-badge&logo=fastapi&logoColor=4DD0E1&color=000000)
 
 ## 📊 GitHub Stats:
 <div align="center" style="width: 100%; margin: 0 auto;">
