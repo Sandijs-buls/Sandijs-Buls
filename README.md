@@ -28,6 +28,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=FF7043&color=000000)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=ECEFF4&color=000000)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%23121011.svg?style=for-the-badge&logo=githubactions&logoColor=4FC3F7&color=000000)
+![Postman](https://img.shields.io/badge/Postman-%23121011.svg?style=for-the-badge&logo=postman&logoColor=FF7043&color=000000)
 ![Docker](https://img.shields.io/badge/docker-%23121011.svg?style=for-the-badge&logo=docker&logoColor=4FC3F7&color=000000)
 ![Heroku](https://img.shields.io/badge/Heroku-%23121011.svg?style=for-the-badge&logo=heroku&logoColor=430098&color=000000)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=FFFFFF&color=000000)
