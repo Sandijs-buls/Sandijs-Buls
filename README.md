@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandijs-buls-717614278) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SBuls2007@gmail.com) 
-[![Resume](https://img.shields.io/badge/Resume-DAA520?style=for-the-badge&logoColor=black&labelColor=DAA520)](https://drive.google.com/file/d/1wdt8os8nRJ7yZPg56ntfQXJac7TQrNAL/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-DAA520?style=for-the-badge&logoColor=black&labelColor=DAA520)](https://drive.google.com/file/d/1ujsQ7eaZlVLUTtCSlAWSmHeMl6ujIyNt/view?usp=sharing)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA500&labelColor=000000)](https://leetcode.com/sandijs-buls)
 
 # 💻 Languages:
